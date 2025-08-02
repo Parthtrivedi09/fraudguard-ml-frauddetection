@@ -13,18 +13,3 @@ FraudGuard is a machine learning project designed to detect fraudulent credit ca
 - Scalable codebase, ready for advanced features like explainability & real-time alerts
 
 ---
-
-## 📁 Dataset
-
-Dataset used: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
-Contains 284,807 transactions, with 492 labeled as fraudulent (≈0.17%).
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/your-username/FraudGuard-ML-FraudDetection.git
-cd FraudGuard-ML-FraudDetection
